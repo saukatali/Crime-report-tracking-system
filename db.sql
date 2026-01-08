@@ -1,0 +1,2 @@
+create database crime_reporting_db;
+use crime_reporting_db;
